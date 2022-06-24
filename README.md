@@ -1,1 +1,4 @@
 # School_District_Analysis
+
+## Background
+A school district's cheif data analysts has asked for assistance in analyzing standardized testing data. Maria has asked to have the data agregated and to show school performance trends in mat and reading. The initial analysis will assist the school board and superintendent in making decisions ragrding the school budget allotments and priorities. After reviewing the initial analysis, the school board has concluded that tere is evidence of academic dishonesty, specifically when looking at Thomas High School ninth graders test scores. In order to uphold state-testing standards, the school board has reached out for assistance. The school district analysis is to be repeated after replacing the math and reading scored for Thomas High School ninth graders.
