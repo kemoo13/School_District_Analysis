@@ -50,8 +50,7 @@ In order to look into the suspected academic dishonesty, the grades for Thomas H
 When reviewing the top five and bottom five schools, both before and after removing the 9th graders, Thomas High School remained the second-best school. The overall order of schools did not change. 
 
 #### Original Top 5
-<img src="Resources/Original_per_school.png" width="800">
-
+<img src="Resources/original_top_schools.png" width="800">
 
 
 #### Adjusted Top 5
@@ -60,10 +59,10 @@ When reviewing the top five and bottom five schools, both before and after remov
 
 The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”:
 
-#### Original Top 5
+#### Original Scores by Grade
 <img src="Resources/math_scores_by_grade.png" width="500">
 
-#### Adjusted Top 5
+#### Adjusted Scores by Grade
 <img src="Resources/reading_scores_by_grade.png" width="500">
 
 Thomas High School has a relatively large budget, landing in the $630-645 per student range. 
