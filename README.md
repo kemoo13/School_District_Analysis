@@ -50,7 +50,7 @@ In order to look into the suspected academic dishonesty, the grades for Thomas H
 When reviewing the top five and bottom five schools, both before and after removing the 9th graders, Thomas High School remained the second-best school. The overall order of schools did not change. 
 
 #### Original Top 5
-<img src="Resources/original_top_schools.png" width="800">
+<img src="Resources/Original_per_school.png" width="800">
 
 #### Adjusted Top 5
 <img src="Resources/adjusted_top_schools.png" width="800">
