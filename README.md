@@ -48,16 +48,23 @@ Once the math and reading scores were removed from the Thomas High School data, 
 -	The Passing Math Percentage decreased 67%
 -	The Passing Reading Percentage decreased 70% 
 
-By setting the 9th grader’s scores to NaN, the per school summary showed a large difference in the overall scores. Once we fully exclude, or remove, the 9th graders from the scoring, the school summary average increases back to the high percentages.
-
-DISTRICT SUMMARY REMOVED
 
 When reviewing the top five and bottom five schools, both before and after removing the 9th graders, Thomas High School remained the second-best school. The overall order of schools did not change. 
 
+#### Original Top 5
+<img src="Resources/original_top_schools.png.png" width="800">
+
+#### Adjusted Top 5
+<img src="Resources/adjusted_top_schools.png.png" width="800">
 
 
 The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”.
 
+#### Original Top 5
+<img src="Resources/math_scores_by_grade.png" width="800">
+
+#### Adjusted Top 5
+<img src="Resources/reading_scores_by_grade.png" width="800">
 
 Thomas High School has a relatively large budget, landing in the $630-645 per student range. 
 - The passing math percentage, passing reading percentage, and the overall passing percentages were not altered when looking at the cleaned data. 
