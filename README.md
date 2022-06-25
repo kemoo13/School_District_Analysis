@@ -58,13 +58,13 @@ When reviewing the top five and bottom five schools, both before and after remov
 <img src="Resources/adjusted_top_schools.png" width="800">
 
 
-The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”.
+The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”:
 
 #### Original Top 5
-<img src="Resources/math_scores_by_grade.png" width="600">
+<img src="Resources/math_scores_by_grade.png" width="500">
 
 #### Adjusted Top 5
-<img src="Resources/reading_scores_by_grade.png" width="600">
+<img src="Resources/reading_scores_by_grade.png" width="500">
 
 Thomas High School has a relatively large budget, landing in the $630-645 per student range. 
 - The passing math percentage, passing reading percentage, and the overall passing percentages were not altered when looking at the cleaned data. 
