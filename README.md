@@ -22,7 +22,7 @@ In the original analysis, a district school summary analysis was performed and d
 <img src="Resources/district_summary_original.png" width="900">
 
 #### Adjusted District Summary
-<img src="Resources/district_summary_adjusted.png.png" width="900">
+<img src="Resources/district_summary_adjusted.png" width="900">
 
 ### School Summary
 
@@ -39,7 +39,9 @@ Looking at the per school summary report, we can conclude the following about Th
 
 In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary. 
 
-NINTHGRADEREMOVAL PIC
+#### Original School Summary
+<img src="Resources/ninth_grade_removal.png" width="800">
+
 
 Once the math and reading scores were removed from the Thomas High School data, we can see drastic changes to the Thomas High School grade:
 -	The “% Overall Passing” is significantly decreased to 65.076453.
