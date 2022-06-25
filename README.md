@@ -19,10 +19,10 @@ Anaconda 4.13.0
 In the original analysis, a district school summary analysis was performed and displayed. It is not anticipated for the distr This may be due to the small number of 9th-grade students at Thomas High School. Using the count() method, the total number of students in the 9th grade at Thomas High School is 461. Using the same method, the total student count for all schools came to 39170. Therefore, 461 students are not expected to make a drastic difference in the district summary report. As such, the district summary report was reduced only by 0.1%.
 
 #### Original District Summary
-<img src="Resources/district_summary_original.png" width="700">
+<img src="Resources/district_summary_original.png" width="900">
 
 #### Adjusted District Summary
-<img src="Resources/adjusted_summary_adjusted.png" width="700">
+<img src="Resources/district_summary_adjusted.png.png" width="900">
 
 ### School Summary
 
@@ -32,10 +32,10 @@ Looking at the per school summary report, we can conclude the following about Th
 - The percentage passing reading was 97%
 
 #### Original School Summary
-<img src="Resources/per_school_summary_original.png" width="500">
+<img src="Resources/per_school_summary_original.png" width="600">
 
 #### Adjusted School Summary
-<img src="Resources/per_school_summary_updated.png" width="500">
+<img src="Resources/per_school_summary_updated.png" width="600">
 
 In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary. 
 
