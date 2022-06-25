@@ -61,22 +61,38 @@ When reviewing the top five and bottom five schools, both before and after remov
 The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”.
 
 #### Original Top 5
-<img src="Resources/math_scores_by_grade.png" width="800">
+<img src="Resources/math_scores_by_grade.png" width="600">
 
 #### Adjusted Top 5
-<img src="Resources/reading_scores_by_grade.png" width="800">
+<img src="Resources/reading_scores_by_grade.png" width="600">
 
 Thomas High School has a relatively large budget, landing in the $630-645 per student range. 
 - The passing math percentage, passing reading percentage, and the overall passing percentages were not altered when looking at the cleaned data. 
 - However, when I removed the whole number formatting, the overall percent passing for that spending range decreased very slightly:
 
-UPDATED SPENDING RANGES AND THE ORIGINAL ONE
+#### Original Schools by Budget
+<img src="Resources/original_updated_budget.png" width="800">
+
+#### Adjusted Schools by Budget
+<img src="Resources/adjusted_budget.png" width="800">
 
 
-The scores by school size also remained the same unless the formatting was removed to see the minimal changes. 
+The scores by school size also remained the same unless the formatting was removed to see the minimal changes: 
 
-There is also a very slight change to the Charter School passing percentages for all three categories when comparing grades by school type.
+#### Original Schools by Size
+<img src="Resources/school_size_original.png" width="800">
 
+#### Adjusted Schools by Size
+<img src="Resources/school_size_adjusted.png" width="800">
+
+
+There is also a very slight change to the Charter School passing percentages for all three categories when comparing grades by school type:
+
+#### Original By School Type
+<img src="Resources/by_school_type_original.png" width="800">
+
+#### Adjusted by School Type
+<img src="Resources/by_school_type_adjusted.png" width="800">
 
 Overall, after looking at the adjusted and completed data analysis we can conclude that there have been alterations made to the ninth-grade test scores of Thomas High School. Fortunately, this is a small enough amount that it does not drastically change the overall summary. 
 
