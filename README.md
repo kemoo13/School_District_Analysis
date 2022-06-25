@@ -39,7 +39,7 @@ Once the math and reading scores were removed from the Thomas High School data, 
 <img src="Resources/ninth_grade_removal.png" width="800">
 
 #### Original School Summary
-<img src="Resources/per_school_summary_original.png" width="800">
+<img src="Resources/Original_per_school.png" width="800">
 
 #### Adjusted School Summary
 <img src="Resources/per_school_summary_updated.png" width="800">
