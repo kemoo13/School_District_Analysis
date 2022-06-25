@@ -52,6 +52,8 @@ When reviewing the top five and bottom five schools, both before and after remov
 #### Original Top 5
 <img src="Resources/Original_per_school.png" width="800">
 
+
+
 #### Adjusted Top 5
 <img src="Resources/adjusted_top_schools.png" width="800">
 
