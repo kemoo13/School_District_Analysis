@@ -76,7 +76,7 @@ Thomas High School has a relatively large budget, landing in the $630-645 per st
 <img src="Resources/adjusted_budget.png" width="800">
 
 
-The scores by school size also remained the same unless the formatting was removed to see the minimal changes: 
+When looking at the scores by school size also remained the same unless the formatting was adjusted to show decimal points. When adjusted minimal changes can be observed: 
 
 #### Original Schools by Size
 <img src="Resources/school_size_original.png" width="800">
