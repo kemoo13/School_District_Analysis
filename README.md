@@ -37,9 +37,8 @@ Looking at the per school summary report, we can conclude the following about Th
 #### Adjusted School Summary
 <img src="Resources/per_school_summary_updated.png" width="800">
 
-In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary. 
+In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary: 
 
-#### Original School Summary
 <img src="Resources/ninth_grade_removal.png" width="800">
 
 
