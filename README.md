@@ -52,10 +52,10 @@ Once the math and reading scores were removed from the Thomas High School data, 
 When reviewing the top five and bottom five schools, both before and after removing the 9th graders, Thomas High School remained the second-best school. The overall order of schools did not change. 
 
 #### Original Top 5
-<img src="Resources/original_top_schools.png.png" width="800">
+<img src="Resources/original_top_schools.png" width="800">
 
 #### Adjusted Top 5
-<img src="Resources/adjusted_top_schools.png.png" width="800">
+<img src="Resources/adjusted_top_schools.png" width="800">
 
 
 The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”.
