@@ -93,5 +93,7 @@ There is also a very slight change to the Charter School passing percentages for
 #### Adjusted by School Type
 <img src="Resources/by_school_type_adjusted.png" width="800">
 
-Overall, after looking at the adjusted and completed data analysis we can conclude that there have been alterations made to the ninth-grade test scores of Thomas High School. Fortunately, this is a small enough amount that it does not drastically change the overall summary. 
+
+## Summary
+Overall, after looking at the adjusted and completed data analysis we can conclude that there have been alterations made to the ninth-grade test scores of Thomas High School. Fortunately, this is a small enough amount that it does not drastically change the overall summary. By utilizing the "NaN" function, it became obvious that there were inconsistencies in the data. It would be best for the school district to further look in to this situation and determine why and how the grades were adjusted. 
 
