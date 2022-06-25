@@ -59,10 +59,10 @@ When reviewing the top five and bottom five schools, both before and after remov
 
 The overall scores by grade level were not altered, except for the 9th-grade scores showing as “NaN”:
 
-#### Original Scores by Grade
+#### Math Scores by grade
 <img src="Resources/math_scores_by_grade.png" width="500">
 
-#### Adjusted Scores by Grade
+#### Reading Scores by Grade
 <img src="Resources/reading_scores_by_grade.png" width="500">
 
 Thomas High School has a relatively large budget, landing in the $630-645 per student range. 
