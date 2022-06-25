@@ -22,7 +22,7 @@ In the original analysis, a district school summary analysis was performed and d
 <img src="Resources/district_summary_original.png" width="900">
 
 #### Adjusted District Summary
-<img src="Resources/district_summary_adjusted.png.png" width="900">
+<img src="Resources/district_summary_adjusted.png" width="900">
 
 ### School Summary
 
@@ -32,10 +32,10 @@ Looking at the per school summary report, we can conclude the following about Th
 - The percentage passing reading was 97%
 
 #### Original School Summary
-<img src="Resources/per_school_summary_original.png" width="600">
+<img src="Resources/per_school_summary_original.png" width="700">
 
 #### Adjusted School Summary
-<img src="Resources/per_school_summary_updated.png" width="600">
+<img src="Resources/per_school_summary_updated.png" width="700">
 
 In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary. 
 
