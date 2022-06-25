@@ -31,6 +31,13 @@ Looking at the per school summary report, we can conclude the following about Th
 - The percentage passing math was 93%
 - The percentage passing reading was 97%
 
+Once the math and reading scores were removed from the Thomas High School data, we can see drastic changes to the Thomas High School grade:
+-	The “% Overall Passing” is significantly decreased to 65.076453.
+-	The Passing Math Percentage decreased 67%
+-	The Passing Reading Percentage decreased 70% 
+
+<img src="Resources/ninth_grade_removal.png" width="800">
+
 #### Original School Summary
 <img src="Resources/per_school_summary_original.png" width="800">
 
@@ -38,14 +45,6 @@ Looking at the per school summary report, we can conclude the following about Th
 <img src="Resources/per_school_summary_updated.png" width="800">
 
 In order to look into the suspected academic dishonesty, the grades for Thomas High School ninth-graders were marked as “NaN”. This means the grades are changed to “Not a Number” and excluded from the updated per school summary: 
-
-<img src="Resources/ninth_grade_removal.png" width="800">
-
-
-Once the math and reading scores were removed from the Thomas High School data, we can see drastic changes to the Thomas High School grade:
--	The “% Overall Passing” is significantly decreased to 65.076453.
--	The Passing Math Percentage decreased 67%
--	The Passing Reading Percentage decreased 70% 
 
 
 When reviewing the top five and bottom five schools, both before and after removing the 9th graders, Thomas High School remained the second-best school. The overall order of schools did not change. 
